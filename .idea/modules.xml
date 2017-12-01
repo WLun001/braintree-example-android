@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BraintreePayments.iml" filepath="$PROJECT_DIR$/BraintreePayments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BraintreePayments-client.iml" filepath="$PROJECT_DIR$/BraintreePayments-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
