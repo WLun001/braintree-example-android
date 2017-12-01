@@ -39,8 +39,8 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity {
 
     final int REQUEST_CODE = 1;
-    final String get_token = "http://192.168.1.12/braintreepayment/main.php";
-    final String send_payment_details = "http://192.168.1.12/braintreepayment/mycheckout.php";
+    final String get_token = "http://10.0.2.2:8888/BraintreePayments-server/main.php";
+    final String send_payment_details = "http://10.0.2.2:8888/BraintreePayments-server/mycheckout.php";
     String token, amount;
     HashMap<String, String> paramHash;
 
